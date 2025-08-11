@@ -1,5 +1,3 @@
-# IA22 Web Console - NetSecurePro IA
----
 ## Auteur : Zoubirou Mohammed Ilyes
 🔗 ORCID : https://orcid.org/0009-0007-7571-3178  
 🏢 Organisation : NetSecurePro IA
